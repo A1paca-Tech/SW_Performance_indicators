@@ -1,0 +1,10 @@
+D:\My_Program\Projects\school_work\Performance_indicators\Performance_indicators\bin\Debug\Performance_indicators.exe.config
+D:\My_Program\Projects\school_work\Performance_indicators\Performance_indicators\bin\Debug\Performance_indicators.exe
+D:\My_Program\Projects\school_work\Performance_indicators\Performance_indicators\bin\Debug\Performance_indicators.pdb
+D:\My_Program\Projects\school_work\Performance_indicators\Performance_indicators\obj\Debug\Performance_indicators.csprojAssemblyReference.cache
+D:\My_Program\Projects\school_work\Performance_indicators\Performance_indicators\obj\Debug\Performance_indicators.Form1.resources
+D:\My_Program\Projects\school_work\Performance_indicators\Performance_indicators\obj\Debug\Performance_indicators.Properties.Resources.resources
+D:\My_Program\Projects\school_work\Performance_indicators\Performance_indicators\obj\Debug\Performance_indicators.csproj.GenerateResource.cache
+D:\My_Program\Projects\school_work\Performance_indicators\Performance_indicators\obj\Debug\Performance_indicators.csproj.CoreCompileInputs.cache
+D:\My_Program\Projects\school_work\Performance_indicators\Performance_indicators\obj\Debug\Performance_indicators.exe
+D:\My_Program\Projects\school_work\Performance_indicators\Performance_indicators\obj\Debug\Performance_indicators.pdb
